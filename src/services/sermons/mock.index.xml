@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:69816285/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:69816285/sounds.rss?before=124058217" rel="next" type="application/rss+xml"/>
+        <title>Immanuel Anglican Church</title>
+        <link>http://immanuelanglican.org</link>
+        <pubDate>Fri, 14 Apr 2023 02:05:11 +0000</pubDate>
+        <lastBuildDate>Fri, 14 Apr 2023 02:05:11 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Featuring sermons and teaching from Immanuel Anglican Church of Chicago.  
+
+Visit our website: immanuelanglican.org</description>
+        <itunes:subtitle>Featuring sermons and teaching from Immanuel Angl…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Immanuel Anglican Church</itunes:name>
+          <itunes:email>jennifer@immanuelanglican.org</itunes:email>
+        </itunes:owner>
+        <itunes:author>Immanuel Anglican Church</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000319404898-6lnhzh-original.jpg"/>
+        <image>
+          <url>https://i1.sndcdn.com/avatars-000319404898-6lnhzh-original.jpg</url>
+          <title>Immanuel Anglican Church</title>
+          <link>http://immanuelanglican.org</link>
+        </image>
+        <itunes:category text="Religion &amp; Spirituality"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1492010935</guid>
+      <title>A Secure Life - Fr. Aaron Damiani</title>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/immanuel-anglican/a-secure-life-fr-aaron-damiani</link>
+      <itunes:duration>00:19:34</itunes:duration>
+      <itunes:author>Immanuel Anglican Church</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Matthew 28:1-10</itunes:summary>
+      <itunes:subtitle>Matthew 28:1-10</itunes:subtitle>
+      <description>Matthew 28:1-10</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1492010935-immanuel-anglican-a-secure-life-fr-aaron-damiani.mp3" length="18796723"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-fKdcyzzhB9j8y1ZG-3MSMMw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1492005481</guid>
+      <title>Good Friday 2023 Homily - Fr. Stephen Lake</title>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/immanuel-anglican/fr-stephen-lake-good-friday-homily</link>
+      <itunes:duration>00:25:20</itunes:duration>
+      <itunes:author>Immanuel Anglican Church</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Good Friday 2023 Homily - Fr. Stephen Lake by Immanuel Anglican Church</itunes:summary>
+      <itunes:subtitle>Good Friday 2023 Homily - Fr. Stephen Lake by Imm…</itunes:subtitle>
+      <description>Good Friday 2023 Homily - Fr. Stephen Lake by Immanuel Anglican Church</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1492005481-immanuel-anglican-fr-stephen-lake-good-friday-homily.mp3" length="24330547"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-c4kz5NW23Eyzq8Rz-kyYEZw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1492004047</guid>
+      <title>Maundy Thursday 2023 Homily - Christina Baik</title>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/immanuel-anglican/christina-baik</link>
+      <itunes:duration>00:17:36</itunes:duration>
+      <itunes:author>Immanuel Anglican Church</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Luke 22:14-30</itunes:summary>
+      <itunes:subtitle>Luke 22:14-30</itunes:subtitle>
+      <description>Luke 22:14-30</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1492004047-immanuel-anglican-christina-baik.mp3" length="16913203"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-KJcjseykdWbzZbAs-R9zQaw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1478678806</guid>
+      <title>King Over All the Earth - Fr. Stephen Lake</title>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/immanuel-anglican/king-over-all-the-earth-fr-stephen-lake</link>
+      <itunes:duration>00:26:39</itunes:duration>
+      <itunes:author>Immanuel Anglican Church</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Zechariah 14:1, 3-9, 20-21</itunes:summary>
+      <itunes:subtitle>Zechariah 14:1, 3-9, 20-21</itunes:subtitle>
+      <description>Zechariah 14:1, 3-9, 20-21</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1478678806-immanuel-anglican-king-over-all-the-earth-fr-stephen-lake.mp3" length="25594675"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HPghJ9Z6rdicESGz-AdA11g-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1473622660</guid>
+      <title>A Cleansing Fountain is Opened - Dcn. Will Chester</title>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/immanuel-anglican/a-cleansing-fountain-is-opened-dcn-will-chester</link>
+      <itunes:duration>00:32:37</itunes:duration>
+      <itunes:author>Immanuel Anglican Church</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Zechariah 12:10-13:6</itunes:summary>
+      <itunes:subtitle>Zechariah 12:10-13:6</itunes:subtitle>
+      <description>Zechariah 12:10-13:6</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1473622660-immanuel-anglican-a-cleansing-fountain-is-opened-dcn-will-chester.mp3" length="31332019"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-HPghJ9Z6rdicESGz-AdA11g-t3000x3000.jpg"/>
+    </item>
